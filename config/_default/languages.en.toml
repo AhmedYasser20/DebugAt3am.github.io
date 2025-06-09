@@ -1,0 +1,25 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "DebugAt3am"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+
+[[params.author.links]]
+email = "ahmedyasser200211@gmail.com"
+
+[[params.author.links]]
+github = "https://github.com/AhmedYasser20"
+
+[[params.author.links]]
+linkedin = "https://www.linkedin.com/in/ahmed-yasser-9b0b70236/"
+
+["params.author"]
+name = "Ahmed Yasser"
+image = "Levi.webp"
+bio = "Entry-Level Low-Level Software Engineer"

@@ -1,3 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'Failed to load resource'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "DebugAt3am"
+theme = "blowfish"
